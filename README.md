@@ -1,7 +1,7 @@
 ## I have done this Assignment using Terraform.
 
    #### Details:
-       do the following changes into variavles.tf file
+       do the following changes into variables.tf file
 	1. aws_key_pair: keep your public key
 	2. region: Region name 
 	3. ami: ami name for that region
