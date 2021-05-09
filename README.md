@@ -1,9 +1,9 @@
 ## I have done this Assignment using Terraform.
 
    #### Details:
-	1. aws_key_pair in variable file: keep your public key
-	2. region in variable file: Region name 
-	3. ami in variable file: ami name for that region
+	1. aws_key_pair in variables file: keep your public key
+	2. region in variables file: Region name 
+	3. ami in variables file: ami name for that region
     4. keep your private key into pri.pem file for deployment.
     5. docker.sh file for setup docker Environment 
     6. I have tested all things from "ap-south-1" Region.
